@@ -4,6 +4,7 @@ Nombre: Elian Llorente
 NRC:2967
 Fecha de Creacion: 23/09/2019
 Fecha de Modificacion: 15/10/2019
+
 */
 
 #include<iostream>
@@ -20,8 +21,8 @@ class Dato{
 	void setValor(int);
 	int getValor();
 	void toString();
-	int procesoF(int);	
-	
+	int procesoF(int);
+
 };
 
 Dato::Dato(){
@@ -45,13 +46,13 @@ void Dato::toString(){
 }
 
 int Dato::procesoF(int fact){
-	
+
 	if(fact == 1){
-		return 1;	
+		return 1;
 	}
 	else{
 		return fact*procesoF(fact-1);
-	}	
+	}
 }
 
 

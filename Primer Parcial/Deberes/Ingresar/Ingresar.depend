@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1571276697 source:c:\users\user\desktop\3er semestre\estructurasdedatos\estructura-de-datos\primer parcial\deberes\ingresar\main.cpp
+	<iostream>
+	"ingresar.h"
+
+1571275961 c:\users\user\desktop\3er semestre\estructurasdedatos\estructura-de-datos\primer parcial\deberes\ingresar\ingresar.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+

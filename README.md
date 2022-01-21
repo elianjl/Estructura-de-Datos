@@ -3,5 +3,4 @@ Universidad de las Fuerzas Armadas ESPE
 
 Ingenieria en Software
      
-Nombre: Elian Llorente
-
+Nombre: Elian Joshua

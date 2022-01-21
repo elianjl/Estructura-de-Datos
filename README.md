@@ -5,6 +5,3 @@ Ingenieria en Software
      
 Nombre: Elian Llorente
 
-NRC: 2967
-
-Docente: Ing. Edgar Fernando Solis Acosta
